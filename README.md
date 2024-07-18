@@ -59,7 +59,7 @@ terraform apply
 Após a aplicação bem-sucedida, você pode verificar os recursos criados no portal do Azure.
 
 
-Entando so seu cluster Azure:
+Entando no seu cluster Azure:
 
 az aks get-credentials --resource-group myResourceGroup --name myAKSCluster
 
